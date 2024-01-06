@@ -10,13 +10,9 @@ Develop an interactive report offering invaluable insights using provided sample
 Using Power BI, I've developed a live dashboard that provides key insights into crucial aspects of the Hospitality Domain:
 
 1. 𝗥𝗲𝘃𝗣𝗔𝗥 (Revenue Per Available Room): A critical metric for understanding revenue generation.
-
 2. 𝗔𝗗𝗥 (Average Daily Rate): Analyzing the average rate paid for rooms sold.
-
 3. 𝗗𝗕𝗥𝗡 (Daily Booked Room Nights): Tracking daily room bookings.
-
 4. 𝗗𝗦𝗥𝗡 (Daily Sellable Room Nights): The number of rooms available for sale each day.
-
 5. 𝗗𝗨𝗥𝗡 (Daily Utilized Room Nights): Insights into the number of rooms utilized by customers daily.
 
 ## 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡:
