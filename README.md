@@ -49,6 +49,6 @@ The project aimed to provide data-driven insights to the Revenue team in the hos
 
 It's been an incredible learning experience, exploring the specific challenges and insights of the hospitality domain. Each industry has its own unique data landscape to navigate.
 
-##### Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiMmViZjJiNGQtNTgyNC00M2E4LWJmZTEtNWY1ODAyMzA0MmExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+##### Live Dashboard - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMmViZjJiNGQtNTgyNC00M2E4LWJmZTEtNWY1ODAyMzA0MmExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
